@@ -1,9 +1,11 @@
 {
   "mappings": [
-    "/:/"
+    "/content/hdfcLoans:/",
+    "/content/forms/:/forms"
   ],
   "includes": [
-    "/content/",
+    "/content/hdfcLoans",
+    "/content/forms/",
     "/content/dam/"
   ]
 }
